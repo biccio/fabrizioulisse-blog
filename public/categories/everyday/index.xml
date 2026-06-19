@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Everyday on Kraft Masonry</title>
+    <link>http://localhost:1313/categories/everyday/</link>
+    <description>Recent content in Everyday on Kraft Masonry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/everyday/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Keeping a Paper Notebook in 2026</title>
+      <link>http://localhost:1313/posts/keeping-a-paper-notebook/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/keeping-a-paper-notebook/</guid>
+      <description>&lt;p&gt;My phone has seventeen note-taking apps installed. I use none of them. I use a gridded A5 notebook and a fountain pen that cost eleven euros and has been refilled so many times the barrel is permanently stained with blue-black ink.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The 20-Minute Rule for Side Projects</title>
+      <link>http://localhost:1313/posts/twenty-minute-rule-side-projects/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/twenty-minute-rule-side-projects/</guid>
+      <description>&lt;p&gt;I have started and abandoned more side projects than I care to count. The pattern was always the same: enthusiasm, a burst of progress, a missed week, guilt, abandonment. The 20-minute rule broke the cycle.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

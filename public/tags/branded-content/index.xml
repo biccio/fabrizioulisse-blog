@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Branded Content on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/tags/branded-content/</link>
+    <description>Recent content in Branded Content on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Tue, 01 Mar 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/branded-content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perchè YouTube potrebbe essere il miglior framework per le TV connesse, ma non lo è.</title>
+      <link>http://localhost:1313/posts/perche-youtube-potrebbe-essere-il-miglior-framework-per-le-tv-connesse-ma-non-lo-e/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/perche-youtube-potrebbe-essere-il-miglior-framework-per-le-tv-connesse-ma-non-lo-e/</guid>
+      <description>(Da PlayTheTV(&lt;a href=&#34;http://www.playthetv.com/it/opinions/why-youtube-could-be-the-best-framework-for-connected-tvs-but-its-not/&#34;&gt;http://www.playthetv.com/it/opinions/why-youtube-could-be-the-best-framework-for-connected-tvs-but-its-not/&lt;/a&gt;)) Qual&amp;rsquo;è il più usato, conosciuto e implementato servizio internet video al mo&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

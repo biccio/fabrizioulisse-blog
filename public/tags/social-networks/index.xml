@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Networks on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/tags/social-networks/</link>
+    <description>Recent content in Social Networks on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Mon, 13 May 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stemmings. Prenditi una pausa.</title>
+      <link>http://localhost:1313/posts/stemmings-prenditi-una-pausa/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/stemmings-prenditi-una-pausa/</guid>
+      <description>Stemmings(&lt;a href=&#34;http://stemmings.com&#34;&gt;http://stemmings.com&lt;/a&gt;) è un blog collettivo che raccoglie saggi brevi su design e tecnologia, con un approccio narrativo lineare e slow molto raro di questi tempi. Leggendone i post, ho avuto&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Tracce digitali, identità socializzante, e nuovi vettori. Serve ancora un blog?</title>
+      <link>http://localhost:1313/posts/tracce-digitali-identita-socializzante-e-nuovi-vettori-serve-ancora-un-blog/</link>
+      <pubDate>Wed, 21 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tracce-digitali-identita-socializzante-e-nuovi-vettori-serve-ancora-un-blog/</guid>
+      <description>Riprendo da Luca(&lt;a href=&#34;http://www.pandemia.info&#34;&gt;http://www.pandemia.info&lt;/a&gt;) la citazione dal Chicago Tribune a proposito del minimal posting rappresentato da nuovi strumenti come Twitter(&lt;a href=&#34;http://www.twitter.com&#34;&gt;http://www.twitter.com&lt;/a&gt;) e Tumblr(&lt;a href=&#34;http://www.tu&#34;&gt;http://www.tu&lt;/a&gt;&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

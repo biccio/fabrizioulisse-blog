@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>11 Settembre on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/tags/11-settembre/</link>
+    <description>Recent content in 11 Settembre on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Fri, 10 Oct 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/11-settembre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;internet della crisi</title>
+      <link>http://localhost:1313/posts/linternet-della-crisi/</link>
+      <pubDate>Fri, 10 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/linternet-della-crisi/</guid>
+      <description>In piena recessione, come dedicarsi alla &amp;ldquo;costruzione del superfluo&amp;rdquo; senza rimetterci le penne?</description>
+    </item>
+  </channel>
+</rss>

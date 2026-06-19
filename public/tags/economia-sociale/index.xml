@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economia Sociale on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/tags/economia-sociale/</link>
+    <description>Recent content in Economia Sociale on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Fri, 05 Aug 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/economia-sociale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 cose da fare in Italia, di corsa</title>
+      <link>http://localhost:1313/posts/3-cose-da-fare-in-italia-di-corsa/</link>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/3-cose-da-fare-in-italia-di-corsa/</guid>
+      <description>Il pasto nudo, lo chiamava Kerouac suggerendo a Burroughs il titolo della sua opera maggiore, &amp;ldquo;un attimo raggelato in cui ogni lettore vede quello che c&amp;rsquo;è in cima ad ogni forchetta&amp;rdquo;.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pd on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/tags/pd/</link>
+    <description>Recent content in Pd on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Wed, 27 Aug 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stanchezza democratica</title>
+      <link>http://localhost:1313/posts/stanchezza-democratica/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/stanchezza-democratica/</guid>
+      <description>Lo ammetto: sono uno di quelli che credeva in Veltroni e nel suo progetto. Ci credevo perchè conosco e ammiro l&amp;rsquo;uomo, la sua sensibilità, la sua onestà intellettuale. Ci credevo perchè speravo che il&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Trovare le parole</title>
+      <link>http://localhost:1313/posts/trovare-le-parole/</link>
+      <pubDate>Fri, 23 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/trovare-le-parole/</guid>
+      <description>Sto trascurando il blog, e questo accade perchè, da tempo, ogni volta che cerco le parole per discutere qualche evento che cattura la mia attenzione distrattamente critica, accade qualcos&amp;rsquo;altro che mi&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Mon, 13 May 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stemmings. Prenditi una pausa.</title>
+      <link>http://localhost:1313/posts/stemmings-prenditi-una-pausa/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/stemmings-prenditi-una-pausa/</guid>
+      <description>Stemmings(&lt;a href=&#34;http://stemmings.com&#34;&gt;http://stemmings.com&lt;/a&gt;) è un blog collettivo che raccoglie saggi brevi su design e tecnologia, con un approccio narrativo lineare e slow molto raro di questi tempi. Leggendone i post, ho avuto&amp;hellip;</description>
+    </item>
+    <item>
+      <title>L&#39;internet della crisi</title>
+      <link>http://localhost:1313/posts/linternet-della-crisi/</link>
+      <pubDate>Fri, 10 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/linternet-della-crisi/</guid>
+      <description>In piena recessione, come dedicarsi alla &amp;ldquo;costruzione del superfluo&amp;rdquo; senza rimetterci le penne?</description>
+    </item>
+    <item>
+      <title>Temi caldi 3 / Blogosfera: Pillola blu o pillola viola?</title>
+      <link>http://localhost:1313/posts/temi-caldi-3-blogosfera-pillola-blu-o-pillola-viola/</link>
+      <pubDate>Thu, 18 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/temi-caldi-3-blogosfera-pillola-blu-o-pillola-viola/</guid>
+      <description>La casta è negli occhi di chi la vede. Semmai ci sono meccanismi da modificare, meglio allora fare proposte concrete.</description>
+    </item>
+  </channel>
+</rss>

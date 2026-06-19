@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Experience on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/tags/user-experience/</link>
+    <description>Recent content in User Experience on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Mon, 05 Dec 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/user-experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monti, le pensioni e la User Experience del futuro</title>
+      <link>http://localhost:1313/posts/monti-le-pensioni-e-la-user-experience-del-futuro/</link>
+      <pubDate>Mon, 05 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/monti-le-pensioni-e-la-user-experience-del-futuro/</guid>
+      <description>Ho cominciato a lavorare e versare contributi nel 1992. Tra alti e bassi e varie configurazioni (partita IVA, contratti a progetto, emolumenti da amministratore delegato, e INPS + ENPALS), nel 2012 av&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

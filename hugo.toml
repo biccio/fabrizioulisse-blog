@@ -1,0 +1,61 @@
+baseURL = "https://fabrizioulisse.it/"
+languageCode = "it-it"
+defaultContentLanguage = "it"
+title = "Fabrizio Ulisse [un blog]"
+theme = "hugo-kraft-masonry"
+
+# Genera testo/colori coerenti col tema anche per gli URL (slug minuscoli)
+disablePathToLower = false
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Appunti di viaggio, tecnologia e progetti personali."
+  author = "Fabrizio Ulisse"
+
+  # Sezioni di contenuto considerate "post" per la homepage.
+  mainSections = ["posts"]
+
+  # Numero massimo di articoli mostrati nella griglia masonry della home.
+  homepagePostLimit = 12
+
+  # Mostra/nascondi la barra del filtro per categoria in homepage.
+  enableCategoryFilter = true
+
+  # Titolo e sottotitolo del hero in homepage.
+  # "title" è opzionale: se omesso viene usato il "title" globale qui sopra.
+  [params.hero]
+    title = "Fabrizio Ulisse"
+    subtitle = [
+      "👋 **Ciao, sono Fabrizio!** Lavoro per semplificare e umanizzare complessità tecnologiche, amo pedalare [la mia bici gravel](https://ciclogravelista.com) e suonare la mia [Fender Stratocaster](https://www.youtube.com/watch?v=_505xUKLlAo), ma sono soprattutto un papà. <br> Questo è il mio blog, dove parlo di ciò che mi appassiona o mi incuriosisce."
+      
+    ]
+
+[menus]
+  [[menus.main]]
+    name = "Articoli"
+    url = "/posts/"
+    weight = 10
+
+  [[menus.main]]
+    name = "Categorie"
+    url = "/categories/"
+    weight = 20
+
+  [[menus.main]]
+    name = "Tag"
+    url = "/tags/"
+    weight = 25
+
+  [[menus.main]]
+    name = "Chi sono"
+    url = "/about/"
+    weight = 30
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # Consente HTML grezzo (es. <figure>, <video>) nei contenuti markdown.
+      unsafe = true

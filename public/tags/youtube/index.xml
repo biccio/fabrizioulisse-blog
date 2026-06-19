@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youtube on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/tags/youtube/</link>
+    <description>Recent content in Youtube on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Tue, 01 Mar 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perchè YouTube potrebbe essere il miglior framework per le TV connesse, ma non lo è.</title>
+      <link>http://localhost:1313/posts/perche-youtube-potrebbe-essere-il-miglior-framework-per-le-tv-connesse-ma-non-lo-e/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/perche-youtube-potrebbe-essere-il-miglior-framework-per-le-tv-connesse-ma-non-lo-e/</guid>
+      <description>(Da PlayTheTV(&lt;a href=&#34;http://www.playthetv.com/it/opinions/why-youtube-could-be-the-best-framework-for-connected-tvs-but-its-not/&#34;&gt;http://www.playthetv.com/it/opinions/why-youtube-could-be-the-best-framework-for-connected-tvs-but-its-not/&lt;/a&gt;)) Qual&amp;rsquo;è il più usato, conosciuto e implementato servizio internet video al mo&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Una strategia di marketing per i brands basata sul video online</title>
+      <link>http://localhost:1313/posts/una-strategia-di-marketing-per-i-brands-basata-sul-video-online/</link>
+      <pubDate>Mon, 21 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/una-strategia-di-marketing-per-i-brands-basata-sul-video-online/</guid>
+      <description>(da PlayTheTV(&lt;a href=&#34;http://www.playthetv.com/it/ideas/sharing-a-highlight-of-a-live-video-stream-a-concept/&#34;&gt;http://www.playthetv.com/it/ideas/sharing-a-highlight-of-a-live-video-stream-a-concept/&lt;/a&gt;)) Ci sono opinioni(&lt;a href=&#34;http://venturebeat.com/2011/02/18/interactive-tv-has-finally-happened-just-not-&#34;&gt;http://venturebeat.com/2011/02/18/interactive-tv-has-finally-happened-just-not-&lt;/a&gt;&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

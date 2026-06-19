@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogfest2008 on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/tags/blogfest2008/</link>
+    <description>Recent content in Blogfest2008 on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Thu, 18 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blogfest2008/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Temi caldi 3 / Blogosfera: Pillola blu o pillola viola?</title>
+      <link>http://localhost:1313/posts/temi-caldi-3-blogosfera-pillola-blu-o-pillola-viola/</link>
+      <pubDate>Thu, 18 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/temi-caldi-3-blogosfera-pillola-blu-o-pillola-viola/</guid>
+      <description>La casta è negli occhi di chi la vede. Semmai ci sono meccanismi da modificare, meglio allora fare proposte concrete.</description>
+    </item>
+  </channel>
+</rss>

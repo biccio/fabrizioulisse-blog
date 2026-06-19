@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Russel Crow on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/tags/russel-crow/</link>
+    <description>Recent content in Russel Crow on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Fri, 24 Apr 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/russel-crow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>State of play</title>
+      <link>http://localhost:1313/posts/state-of-play/</link>
+      <pubDate>Fri, 24 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/state-of-play/</guid>
+      <description>Invitato da &lt;a href=&#34;http://www.vincos.it/&#34;&gt;Vincos&lt;/a&gt; e &lt;a href=&#34;http://www.markingegno.biz/blog/&#34;&gt;Markingegno&lt;/a&gt; all&amp;rsquo;anteprima del film State of Play, vi racconto le mie impressioni.</description>
+    </item>
+  </channel>
+</rss>

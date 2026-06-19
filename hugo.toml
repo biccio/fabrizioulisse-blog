@@ -12,7 +12,7 @@ disablePathToLower = false
   tag = "tags"
 
 [params]
-  description = "Appunti di viaggio, tecnologia e progetti personali."
+  description = "Un blog"
   author = "Fabrizio Ulisse"
 
   # Sezioni di contenuto considerate "post" per la homepage.

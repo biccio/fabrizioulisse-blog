@@ -6,8 +6,10 @@ featured: false
 categories:
   - In bici
 tags:
-  - rock
-  - determinazione
+  - bici
+  - gravel
+  - faenza
+  - romagna
 ---
 Tra i capoluoghi della Romagna, Ravenna è la città più lontana da colli e alture anche minime, e se ti piace andare in bicicletta con un minimo di dislivello e vivi qui come me, non puoi far altro che pedalare per 35/40km (solo andata, quindi il doppio) prima di trovare un dislivello di 250mt. Ad esempio, una sola volta sono andato da Ravenna a [Bertinoro](https://it.wikipedia.org/wiki/Bertinoro), un delizioso paese sui colli vicino a Cesena, da dove peraltro si può partire per arrivare alle celebre [Cima Pantani](https://www.visitbertinoro.it/it/itinerari-new/bertinoro-cima-pantani/), ma una volta arrivato lì, non ho potuto far molto altro se non tornare indietro, peraltro prendendo il treno da Forlimpopoli perché l'idea di farmi altri 30km di rettilineo piattone mi annoiava troppo.
 

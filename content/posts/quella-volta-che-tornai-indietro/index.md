@@ -1,9 +1,14 @@
 ---
-title: "Quella volta che tornai indietro"
-summary: "Nel mio blog Ciclogravelista racconto i miei viaggi in bici, in solitaria o in compagnia. Ma ci sono anche storie di bici che non sono mai state raccontate, brevi o addirittura incompiute, come questa."
+title: Quella volta che tornai indietro
+summary: Nel mio blog Ciclogravelista racconto i miei viaggi in bici, in solitaria o in compagnia. Ma ci sono anche storie di bici che non sono mai state raccontate, brevi o addirittura incompiute, come questa.
 date: 2026-06-19
-categories: ["in bici"]
-tags: ["gravel", "bici", "ostacoli"]
+categories:
+  - in bici
+tags:
+  - gravel
+  - bici
+  - karma
+  - viaggi
 featured: true
 ---
 All'inizio di Agosto del 2024 ero in un momento un po' difficile: avevo dei problemi personali, non ero molto in forma fisicamente e faceva anche un caldo [passato alla storia](https://www.renewablematter.eu/estate-2024-caldo-record-temperature-piu-alte-mai-registrate). Insomma, le condizioni ideali per andarsi a fare un bel viaggio in bicicletta in solitaria! 

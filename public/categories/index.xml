@@ -6,26 +6,26 @@
     <description>Recent content in Categorie on Fabrizio Ulisse [un blog]</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Arti</title>
-      <link>http://localhost:1313/categories/arti/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/arti/</guid>
-      <description></description>
-    </item>
     <item>
       <title>In Bici</title>
       <link>http://localhost:1313/categories/in-bici/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/in-bici/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arti</title>
+      <link>http://localhost:1313/categories/arti/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/arti/</guid>
       <description></description>
     </item>
     <item>
       <title>Tecnologia</title>
       <link>http://localhost:1313/categories/tecnologia/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/tecnologia/</guid>
       <description></description>
     </item>

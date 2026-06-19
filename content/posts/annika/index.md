@@ -8,6 +8,7 @@ tags:
   - rock
   - determinazione
   - empowerment
+  - musica
 ---
 I Rush sono una storica band canadese attiva dalla fine degli anni '60, che nel corso dei decenni ha anche rinnovato più volte il proprio stile, la cui matrice si è assestata nella seconda metà degli anni '70: ispirazione pop-rock-progressiva, con sfumature rock metal che hanno certamente influenzato tanto prog-metal degli anni 90 e 2000 (Dream Theater su tutti). Testi filosofici e fantascientifici, chitarre e bassi in high gain, tastiere analogiche, tempi dispari e un sapore epico ma condito con una dose di ironia, che ha preso il cuore di uno zoccolo duro - e tutto sommato numeroso - di fans che adorano da sempre Geddy Lee, Alex Lifeson e Neil Peart.
 

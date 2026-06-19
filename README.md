@@ -1,0 +1,1 @@
+This is my personal blog based on Hugo and my theme [Kraft Masonry](https://github.com/biccio/hugo-kraft-masonry)

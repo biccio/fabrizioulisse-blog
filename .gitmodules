@@ -1,0 +1,3 @@
+[submodule "themes/hugo-kraft-masonry"]
+    path = themes/hugo-kraft-masonry
+    url = https://github.com/biccio/hugo-kraft-masonry.git

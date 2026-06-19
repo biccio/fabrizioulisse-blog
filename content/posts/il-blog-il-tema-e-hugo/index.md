@@ -10,6 +10,7 @@ tags:
   - dev
   - cms
   - blog
+featured: true
 ---
 Ho cominciato a frequentare CMS per lavoro e passatempo più di vent'anni fa, quando iniziavano ad uscire i primi sistemi hosted come [Blogger](https://www.blogger.com/about/?bpli=1) (o [Splinder](https://it.wikipedia.org/wiki/Splinder) per chi se lo ricorda) o self-hosted come [Movable Type](https://www.movabletype.com/) (che esiste ancora, ho appena scoperto!) o [Wordpress](https://wordpress.org/) ai suoi albori e per molti anni a seguire, fino ai moderni headless come [Strapi](https://strapi.io/) (che uso abitualmente per lavoro) o [Payload](https://payloadcms.com/). Per i miei progetti personali ero però alla ricerca di una soluzione più light, rispetto a come sono diventati questi CMS, ormai stracarichi di complessità e di feature, ingordi di manutenzione e perennemente a rischio virus, spam o collassi da plugin scritti male. Mi sono quindi orientato verso soluzioni [SSG](https://developer.mozilla.org/en-US/docs/Glossary/SSG) (static site generation), tra le quali la più interessante mi è sembrata [Hugo](https://gohugo.io/)
 

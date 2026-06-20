@@ -14,4 +14,6 @@ Quando avevo vent'anni volevo cambiare il mondo. Ora ho capito che se cambio io,
 
 **Questo blog esiste dal 2001** (la prima traccia su Internet Archive [risale al 30 Agosto 2001](https://web.archive.org/web/20010830021459/http://www.biccio.com/)), quando ancora era l'unico modo per pubblicare contenuti personali su web, e si era creata una piccola comunità che fu raccontata egregiamente da Eloisa di Rocco in [Mondo Blog](https://www.amazon.it/Mondo-blog-Storie-vere-gente/dp/8883780817) (2003) e diversi anni dopo da Elisabetta Locatelli in [The Blog Up](https://www.amazon.it/blog-up-Storia-sociale-Italia/dp/8820458500) (2014). 
 
-Da allora il blog è stato abbandonato e rescuscitato diverse volte, ma continua ad essere un insuperabile modo di raccontare e raccontarsi senza algoritmi e senza AI. E serve anche questo.
+Da allora il blog è stato abbandonato e rescuscitato diverse volte, ma continua ad essere un insuperabile modo di raccontare e raccontarsi senza algoritmi e senza AI. 
+
+E serve anche questo.

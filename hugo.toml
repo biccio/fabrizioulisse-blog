@@ -37,7 +37,7 @@ disablePathToLower = false
 
 [menus]
   [[menus.main]]
-    name = "Articoli"
+    name = "Post"
     url = "/posts/"
     weight = 10
 

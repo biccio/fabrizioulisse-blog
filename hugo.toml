@@ -26,6 +26,8 @@ disablePathToLower = false
 
   # Titolo e sottotitolo del hero in homepage.
   # "title" è opzionale: se omesso viene usato il "title" globale qui sopra.
+
+  disableDescriptionMobile = true
   [params.hero]
     title = "Fabrizio Ulisse"
     subtitle = [

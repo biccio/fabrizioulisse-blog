@@ -144,6 +144,13 @@ a {
   border-bottom-color: var(--color-accent);
 }
 
+/* Mobile: navigazione più compatta (gap ridotto da 1.75rem). */
+@media (max-width: 640px) {
+  .site-nav ul {
+    gap: 1.1rem;
+  }
+}
+
 .site-header-actions {
   display: flex;
   align-items: center;
@@ -258,6 +265,15 @@ a {
   border-top: 1px dashed var(--color-line);
 }
 
+/* Nasconde l'hero (intro/description della homepage) su mobile quando
+   params.disableDescriptionMobile = true. La classe .hero--hide-mobile
+   viene aggiunta all'elemento <section class="hero"> in layouts/index.html. */
+@media (max-width: 640px) {
+  .hero--hide-mobile {
+    display: none;
+  }
+}
+
 /* ==========================================================================
    Category filter — "luggage tag" pills
    ========================================================================== */
@@ -330,6 +346,7 @@ a {
   grid-auto-flow: dense;
   align-items: stretch;
   gap: var(--gap);
+  width: 100%;
   padding-bottom: 3.5rem;
 }
 
@@ -342,11 +359,32 @@ a {
 @media (max-width: 640px) {
   .masonry {
     grid-template-columns: 1fr;
+    align-items: start;
+    /* Niente full-bleed su mobile: la griglia resta dentro il padding del
+       .container (1.5rem per lato), così le card appaiono centrate con
+       margini simmetrici, anziché a tutta larghezza e schiacciate a
+       sinistra. Bordi e angoli arrotondati restano quelli della regola
+       base .post-card.
+
+       NB: il vecchio "margin: 0 -1.5rem" non produceva un full-bleed
+       simmetrico, perché .masonry ha "width: 100%": con una larghezza
+       esplicita i margini negativi non allargano la griglia su entrambi i
+       lati. Il margine sinistro la portava a x=0, ma la larghezza restava
+       fissa a "container − 3rem", lasciando ~3rem di vuoto a destra. */
   }
 
   /* Con una sola colonna una card "larga" non avrebbe nulla in più da
-     occupare: si comporta come una card normale. */
-  .post-card--wide {
+     occupare: si comporta come una card normale.
+
+     NB: il selettore è .masonry .post-card--wide (specificità 0-2-0) e non
+     il semplice .post-card--wide (0-1-0). La regola base che assegna
+     "grid-column: span 2" compare più in basso nel file: a parità di
+     specificità vincerebbe per ordine sorgente e questa regola mobile
+     verrebbe ignorata (la card resterebbe a span 2 anche su mobile, con
+     creazione di una colonna implicita, buchi nella griglia e card spinte
+     fuori dal viewport). Il prefisso .masonry alza la specificità e rende
+     la regola immune all'ordine. */
+  .masonry .post-card--wide {
     grid-column: span 1;
   }
 }
@@ -413,7 +451,7 @@ a {
   }
 
   .post-card--wide .post-card-image {
-    flex: 0 0 42%;
+    flex: 0 0 50%;
     border-bottom: none;
     border-right: 1px solid var(--color-line);
   }

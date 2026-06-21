@@ -1,5 +1,5 @@
 ---
-title: "Categorie"
+title: "Temi"
 ---
 
 L'elenco di tutte le categorie usate nel blog, con il numero di articoli

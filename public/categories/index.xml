@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categorie on Fabrizio Ulisse [un blog]</title>
+    <title>Temi on Fabrizio Ulisse [un blog]</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categorie on Fabrizio Ulisse [un blog]</description>
+    <description>Recent content in Temi on Fabrizio Ulisse [un blog]</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
@@ -23,10 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>Tecnologia</title>
-      <link>http://localhost:1313/categories/tecnologia/</link>
+      <title>Tech</title>
+      <link>http://localhost:1313/categories/tech/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tecnologia/</guid>
+      <guid>http://localhost:1313/categories/tech/</guid>
       <description></description>
     </item>
   </channel>

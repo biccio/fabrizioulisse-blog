@@ -8,7 +8,7 @@ theme = "hugo-kraft-masonry"
 disablePathToLower = false
 
 [taxonomies]
-  category = "categories"
+  category = "temi"
   tag = "tags"
 
 [params]
@@ -38,12 +38,12 @@ disablePathToLower = false
 [menus]
   [[menus.main]]
     name = "Post"
-    url = "/posts/"
+    url = "/post/"
     weight = 10
 
   [[menus.main]]
-    name = "Categorie"
-    url = "/categories/"
+    name = "Temi"
+    url = "/temi/"
     weight = 20
 
   [[menus.main]]

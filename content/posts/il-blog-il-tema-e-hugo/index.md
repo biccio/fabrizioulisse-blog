@@ -3,7 +3,7 @@ title: Hugo, un tema e un blog
 summary: Dopo tanti CMS installati, usati, modificati e forzati, volevo un framework leggero ed efficace per i miei progetti personali. E ho conosciuto Hugo.
 date: 2026-05-28
 categories:
-  - tecnologia
+  - tech
 tags:
   - hugo
   - web

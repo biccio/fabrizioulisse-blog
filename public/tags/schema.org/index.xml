@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schema.org on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/tags/schema.org/</link>
+    <description>Recent content in Schema.org on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/schema.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schema.org e la Generative Engine Optimization</title>
+      <link>http://localhost:1313/posts/schema.org-e-la-generative-engine-optimization/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/schema.org-e-la-generative-engine-optimization/</guid>
+      <description>Nel mio blog Ciclogravelista racconto i miei viaggi in bici, in solitaria o in compagnia. Ma ci sono anche storie di bici che non sono mai state raccontate, brevi o addirittura incompiute, come questa.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,8 +1,11 @@
 ---
 title: I colli del Faenza Gravel
 summary: Se vivi a Ravenna, devi usare il binocolo per vedere qualche salita. Oppure porti la bici a Faenza.
+description: "Racconto di un anello gravel di circa 70 km e 860 m di dislivello sui colli forlivesi e faentini, con partenza dalla stazione di Faenza."
 date: 2026-06-08
+lastmod: 2026-06-08
 featured: false
+images: []  # DA INSERIRE — nel post non è citata alcuna immagine (solo embed RideWithGPS)
 categories:
   - In bici
 tags:
@@ -10,6 +13,38 @@ tags:
   - gravel
   - faenza
   - romagna
+schema:
+  type: "BlogPosting"
+  headline: "I colli del Faenza Gravel"
+  image: "# DA INSERIRE"
+  datePublished: "2026-06-08"
+  dateModified: "2026-06-08"
+  author:
+    name: "Fabrizio Ulisse"
+    url: "https://fabrizioulisse.it/about/"
+  publisher:
+    name: "Fabrizio Ulisse [un blog]"
+    url: "https://fabrizioulisse.it"
+  mainEntityOfPage: "# DA INSERIRE"
+  inLanguage: "it-IT"
+  articleSection: "In bici"
+  wordCount: 456
+  keywords: ["gravel", "bici", "Faenza", "Romagna", "calanchi", "strade bianche", "Castrocaro Terme"]
+  about:
+    - type: "Place"
+      name: "Faenza"
+  mentions:
+    - type: "Place"
+      name: "Bertinoro"
+      sameAs: "https://it.wikipedia.org/wiki/Bertinoro"
+    - type: "Place"
+      name: "Castrocaro Terme"
+    - type: "Place"
+      name: "Rocca di Montepoggiolo"
+      sameAs: "https://it.wikipedia.org/wiki/Rocca_di_Montepoggiolo"
+    - type: "Thing"
+      name: "Calanchi"
+      sameAs: "https://it.wikipedia.org/wiki/Calanco"
 ---
 Tra i capoluoghi della Romagna, Ravenna è la città più lontana da colli e dislivelli anche minimi, e se ti piace andare in bicicletta con qualche dicreta salita, e vivi qui come me, non puoi far altro che pedalare per 35/40km (solo andata, quindi il doppio) prima di trovare una decente elevazione di 250mt.  Ad esempio, una sola volta sono andato da Ravenna a [Bertinoro](https://it.wikipedia.org/wiki/Bertinoro), un delizioso paese sui colli vicino a Cesena, da dove peraltro si può partire per arrivare alle celebre [Cima Pantani](https://www.visitbertinoro.it/it/itinerari-new/bertinoro-cima-pantani/), ma una volta arrivato lì, non ho potuto far molto altro se non tornare indietro, peraltro prendendo il treno da Forlimpopoli perché l'idea di farmi altri 30km di rettilineo piattone mi annoiava troppo.
 

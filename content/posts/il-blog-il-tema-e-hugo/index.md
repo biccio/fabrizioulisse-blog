@@ -1,7 +1,9 @@
 ---
 title: Hugo, un tema e un blog
 summary: Dopo tanti CMS installati, usati, modificati e forzati, volevo un framework leggero ed efficace per i miei progetti personali. E ho conosciuto Hugo.
+description: "Perché ho scelto Hugo come static site generator per i progetti personali, come si installa e il tema Kraft Masonry creato per questo blog."
 date: 2026-05-28
+lastmod: 2026-05-28
 categories:
   - tech
 tags:
@@ -11,6 +13,30 @@ tags:
   - cms
   - blog
 featured: true
+schema:
+  type: "BlogPosting"
+  headline: "Hugo, un tema e un blog"
+  inLanguage: "it-IT"
+  articleSection: "tech"
+  wordCount: 546
+  mainEntityOfPage: "# DA INSERIRE"
+  author:
+    name: "Fabrizio Ulisse"
+    url: "https://fabrizioulisse.it/about/"
+  publisher:
+    name: "Fabrizio Ulisse [un blog]"
+    url: "https://fabrizioulisse.it"
+  about:
+    - type: "SoftwareApplication"
+      name: "Hugo"
+      sameAs: "https://gohugo.io/"
+  mentions:
+    - { type: "SoftwareApplication", name: "WordPress",  sameAs: "https://wordpress.org/" }
+    - { type: "SoftwareApplication", name: "Strapi",     sameAs: "https://strapi.io/" }
+    - { type: "SoftwareApplication", name: "Decap CMS",  sameAs: "https://decapcms.org/" }
+    - { type: "SoftwareApplication", name: "Kraft Masonry (tema Hugo)", sameAs: "https://github.com/biccio/hugo-kraft-masonry" }
+    - { type: "ComputerLanguage",    name: "Go",         sameAs: "https://go.dev/" }
+    - { type: "Organization",        name: "Netlify",    sameAs: "https://www.netlify.com/" }
 ---
 Ho cominciato a frequentare CMS per lavoro e passatempo più di vent'anni fa, quando iniziavano ad uscire i primi sistemi hosted come [Blogger](https://www.blogger.com/about/?bpli=1) (o [Splinder](https://it.wikipedia.org/wiki/Splinder) per chi se lo ricorda) o self-hosted come [Movable Type](https://www.movabletype.com/) (che esiste ancora, ho appena scoperto!) o [Wordpress](https://wordpress.org/) ai suoi albori e per molti anni a seguire, fino ai moderni headless come [Strapi](https://strapi.io/) (che uso abitualmente per lavoro) o [Payload](https://payloadcms.com/). Per i miei progetti personali ero però alla ricerca di una soluzione più light, rispetto a come sono diventati questi CMS, ormai stracarichi di complessità e di feature, ingordi di manutenzione e perennemente a rischio virus, spam o collassi da plugin scritti male. Mi sono quindi orientato verso soluzioni [SSG](https://developer.mozilla.org/en-US/docs/Glossary/SSG) (static site generation), tra le quali la più interessante mi è sembrata [Hugo](https://gohugo.io/)
 

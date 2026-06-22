@@ -1,7 +1,9 @@
 ---
-title: Quella volta che tornai indietro
-summary: Nel mio blog Ciclogravelista racconto i miei viaggi in bici, in solitaria o in compagnia. Ma ci sono anche storie di bici che non sono mai state raccontate, brevi o addirittura incompiute, come questa.
+title: "Quella volta che tornai indietro"
+summary: "Nel mio blog Ciclogravelista racconto i miei viaggi in bici, in solitaria o in compagnia. Ma ci sono anche storie di bici che non sono mai state raccontate, brevi o addirittura incompiute, come questa."
+description: "Racconto di un viaggio gravel verso Lubiana, partito da Trieste e interrotto a Gorizia per caldo e fatica, chiuso da un furto dell'attrezzatura."
 date: 2026-06-19
+lastmod: 2026-06-19
 categories:
   - in bici
 tags:
@@ -10,6 +12,31 @@ tags:
   - karma
   - viaggi
 featured: true
+schema:
+  type: "BlogPosting"
+  headline: "Quella volta che tornai indietro"
+  articleSection: "in bici"
+  wordCount: 857
+  inLanguage: "it-IT"
+  mainEntityOfPage: "# DA INSERIRE"
+  keywords: ["gravel", "bici", "viaggi", "Trieste", "Carso", "bikepacking", "karma"]
+  about:
+    - { "@type": "Place", name: "Trieste" }
+    - { "@type": "Place", name: "Carso" }
+  mentions:
+    - { "@type": "Place", name: "Lubiana" }
+    - { "@type": "Place", name: "Gorizia" }
+    - { "@type": "Place", name: "Opicina", sameAs: "https://it.wikipedia.org/wiki/Opicina" }
+    - { "@type": "Place", name: "San Daniele del Carso" }
+    - { "@type": "Place", name: "Ravenna" }
+    - { "@type": "SoftwareApplication", name: "Komoot" }
+    - { "@type": "Brand", name: "Apidura" }
+  author:
+    name: "Fabrizio Ulisse"
+    url: "https://fabrizioulisse.it/about/"
+  publisher:
+    name: "Fabrizio Ulisse [un blog]"
+    url: "https://fabrizioulisse.it"
 ---
 All'inizio di Agosto del 2024 ero in un momento un po' difficile: avevo dei problemi personali, non ero molto in forma fisicamente e faceva anche un caldo [passato alla storia](https://www.renewablematter.eu/estate-2024-caldo-record-temperature-piu-alte-mai-registrate). Insomma, le condizioni ideali per andarsi a fare un bel viaggio in bicicletta in solitaria! 
 

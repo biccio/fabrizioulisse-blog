@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "323208b6c2596e83",
+        "id": "33a1e4787f241d77",
         "type": "tabs",
         "children": [
           {
-            "id": "eb58a3aa0c0754c1",
+            "id": "add006edf8b98587",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Senza nome.base",
-                "viewName": "Tabella"
-              },
-              "icon": "lucide-table",
-              "title": "Senza nome"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -193,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb58a3aa0c0754c1",
+  "active": "416755b72cba6d7f",
   "lastOpenFiles": [
     "annika/index.md",
     "Senza nome.base",

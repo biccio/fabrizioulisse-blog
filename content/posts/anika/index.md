@@ -4,6 +4,7 @@ summary: Non ho mai amato particolarmente i Rush, ma in questi giorni guardo mol
 description: "Riflessione su Anika Nilles, la batterista che ha sostituito Neil Peart nel tour 2026 dei Rush conquistando il pubblico."
 date: 2026-06-15
 lastmod: 2026-06-15
+featured: false
 categories:
   - Arti
 tags:

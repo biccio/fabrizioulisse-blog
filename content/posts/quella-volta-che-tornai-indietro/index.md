@@ -18,7 +18,7 @@ schema:
   articleSection: "in bici"
   wordCount: 857
   inLanguage: "it-IT"
-  mainEntityOfPage: "# DA INSERIRE"
+  mainEntityOfPage: "https://fabrizioulisse.it/quella-volta-che-tornai-indietro/"   # conferma il path
   keywords: ["gravel", "bici", "viaggi", "Trieste", "Carso", "bikepacking", "karma"]
   about:
     - { "@type": "Place", name: "Trieste" }
@@ -29,8 +29,9 @@ schema:
     - { "@type": "Place", name: "Opicina", sameAs: "https://it.wikipedia.org/wiki/Opicina" }
     - { "@type": "Place", name: "San Daniele del Carso" }
     - { "@type": "Place", name: "Ravenna" }
-    - { "@type": "SoftwareApplication", name: "Komoot" }
+    - { "@type": "SoftwareApplication", name: "Komoot", sameAs: "https://www.komoot.com/" }
     - { "@type": "Brand", name: "Apidura" }
+    - { "@type": "Blog", name: "Ciclogravelista", sameAs: "https://ciclogravelista.com" }
   author:
     name: "Fabrizio Ulisse"
     url: "https://fabrizioulisse.it/about/"

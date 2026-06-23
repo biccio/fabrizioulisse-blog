@@ -11,10 +11,14 @@
             "id": "add006edf8b98587",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "quella-volta-che-tornai-indietro/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "index"
             }
           }
         ]
@@ -176,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,13 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "416755b72cba6d7f",
+  "active": "add006edf8b98587",
   "lastOpenFiles": [
+    "schema.org-e-la-generative-engine-optimization/index.md",
+    "quella-volta-che-tornai-indietro/index.md",
+    "4-dischi-delle-mie-4-songwriter-preferite/index.md",
+    "il-blog-il-tema-e-hugo/index.md",
+    "i colli del faenza gravel/index.md",
     "annika/index.md",
     "Senza nome.base",
-    "i colli del faenza gravel/index.md",
-    "il-blog-il-tema-e-hugo/index.md",
-    "quella-volta-che-tornai-indietro/index.md",
     "wde/index.md",
     "vastita/index.md",
     "usabilita-progettuale-o-valutativa/index.md",
@@ -217,7 +224,6 @@
     "slotmusic-ancora-con-la-storia-della-morte-del-cd/index.md",
     "santoro-grillo-e-la-riduzione-del-raccontabile/index.md",
     "rompere-muri/index.md",
-    "romecamp2008-famolo-sstrano/index.md",
     "wde",
     "vastita",
     "usabilita-progettuale-o-valutativa",

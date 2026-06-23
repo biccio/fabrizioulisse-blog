@@ -1,7 +1,7 @@
 ---
-title: "Quella volta che tornai indietro"
-summary: "Nel mio blog Ciclogravelista racconto i miei viaggi in bici, in solitaria o in compagnia. Ma ci sono anche storie di bici che non sono mai state raccontate, brevi o addirittura incompiute, come questa."
-description: "Racconto di un viaggio gravel verso Lubiana, partito da Trieste e interrotto a Gorizia per caldo e fatica, chiuso da un furto dell'attrezzatura."
+title: Quella volta che tornai indietro
+summary: Nel mio blog Ciclogravelista racconto i miei viaggi in bici, in solitaria o in compagnia. Ma ci sono anche storie di bici mai raccontate, brevi o addirittura incompiute, come questa.
+description: Racconto di un viaggio gravel verso Lubiana, partito da Trieste e interrotto a Gorizia per caldo e fatica, chiuso da un furto dell'attrezzatura.
 date: 2026-06-19
 lastmod: 2026-06-19
 categories:
@@ -11,33 +11,53 @@ tags:
   - bici
   - karma
   - viaggi
-featured: true
+featured: false
 schema:
-  type: "BlogPosting"
-  headline: "Quella volta che tornai indietro"
-  articleSection: "in bici"
+  type: BlogPosting
+  headline: Quella volta che tornai indietro
+  articleSection: in bici
   wordCount: 857
-  inLanguage: "it-IT"
-  mainEntityOfPage: "https://fabrizioulisse.it/quella-volta-che-tornai-indietro/"   # conferma il path
-  keywords: ["gravel", "bici", "viaggi", "Trieste", "Carso", "bikepacking", "karma"]
+  inLanguage: it-IT
+  mainEntityOfPage: https://fabrizioulisse.it/quella-volta-che-tornai-indietro/
+  keywords:
+    - gravel
+    - bici
+    - viaggi
+    - Trieste
+    - Carso
+    - bikepacking
+    - karma
   about:
-    - { "@type": "Place", name: "Trieste" }
-    - { "@type": "Place", name: "Carso" }
+    - "@type": Place
+      name: Trieste
+    - "@type": Place
+      name: Carso
   mentions:
-    - { "@type": "Place", name: "Lubiana" }
-    - { "@type": "Place", name: "Gorizia" }
-    - { "@type": "Place", name: "Opicina", sameAs: "https://it.wikipedia.org/wiki/Opicina" }
-    - { "@type": "Place", name: "San Daniele del Carso" }
-    - { "@type": "Place", name: "Ravenna" }
-    - { "@type": "SoftwareApplication", name: "Komoot", sameAs: "https://www.komoot.com/" }
-    - { "@type": "Brand", name: "Apidura" }
-    - { "@type": "Blog", name: "Ciclogravelista", sameAs: "https://ciclogravelista.com" }
+    - "@type": Place
+      name: Lubiana
+    - "@type": Place
+      name: Gorizia
+    - "@type": Place
+      name: Opicina
+      sameAs: https://it.wikipedia.org/wiki/Opicina
+    - "@type": Place
+      name: San Daniele del Carso
+    - "@type": Place
+      name: Ravenna
+    - "@type": SoftwareApplication
+      name: Komoot
+      sameAs: https://www.komoot.com/
+    - "@type": Brand
+      name: Apidura
+    - "@type": Blog
+      name: Ciclogravelista
+      sameAs: https://ciclogravelista.com
   author:
-    name: "Fabrizio Ulisse"
-    url: "https://fabrizioulisse.it/about/"
+    name: Fabrizio Ulisse
+    url: https://fabrizioulisse.it/about/
   publisher:
-    name: "Fabrizio Ulisse [un blog]"
-    url: "https://fabrizioulisse.it"
+    name: Fabrizio Ulisse [un blog]
+    url: https://fabrizioulisse.it
 ---
 All'inizio di Agosto del 2024 ero in un momento un po' difficile: avevo dei problemi personali, non ero molto in forma fisicamente e faceva anche un caldo [passato alla storia](https://www.renewablematter.eu/estate-2024-caldo-record-temperature-piu-alte-mai-registrate). Insomma, le condizioni ideali per andarsi a fare un bel viaggio in bicicletta in solitaria! 
 

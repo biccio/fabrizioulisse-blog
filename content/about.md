@@ -1,9 +1,60 @@
 ---
 title: "Chi sono"
 date: 2026-05-15
+lastmod: 2026-05-15        # nessun lastmod nel file → assunto = date; sostituisci con .Lastmod di Hugo se diverso
+description: "Pagina «Chi sono»: chi è Fabrizio Ulisse, autore del blog attivo dal 2001."
+schema:
+  type: "ProfilePage"
+  inLanguage: "it-IT"
+  mainEntityOfPage: "https://fabrizioulisse.it/about/"
+  isPartOf:
+    type: "WebSite"
+    name: "Fabrizio Ulisse [un blog]"
+    url: "https://fabrizioulisse.it"
+  mainEntity:
+    type: "Person"
+    name: "Fabrizio Ulisse"
+    alternateName: "biccio"
+    url: "https://fabrizioulisse.it"
+    description: "Professionista del digitale dagli anni '90, padre single a Ravenna; si occupa di comunicazione tecnica e va in bici gravel."
+    jobTitle: "Comunicazione tecnica"
+    worksFor:
+      type: "Organization"
+      name: "PagoPA"
+      url: "https://pagopa.it"
+    birthPlace:
+      type: "Place"
+      name: "Roma"
+    homeLocation:
+      type: "Place"
+      name: "Ravenna"
+    # image:                # DA INSERIRE — foto profilo (non presente nel post)
+    sameAs:
+      - "https://github.com/biccio"
+      - "https://www.linkedin.com/in/fabrizioulisse/"
+      - "https://facebook.com/fabrizio.ulisse"
+      - "https://instagram.com/biccio"
+      - "https://unoesessantacinque.substack.com/"
+      - "https://www.komoot.com/it-it/user/585511819067"
+  mentions:
+    - type: "Book"
+      name: "Mondo blog"
+      datePublished: "2003"
+      author:
+        type: "Person"
+        name: "Eloisa di Rocco"
+    - type: "Book"
+      name: "The Blog Up"
+      datePublished: "2014"
+      author:
+        type: "Person"
+        name: "Elisabetta Locatelli"
+    - type: "Blog"
+      name: "Il Ciclogravelista"
+      url: "https://ciclogravelista.com"
 ---
 
-**Mi chiamo Fabrizio Ulisse**, sono un Gen Xers cresciuto fra Pink Floyd, Nirvana e EDM mentre scoprivamo Internet. Del digitale ho fatto una passione e un lavoro, dai primi siti in HTML di fine anni '90 fino a Claude Code e ai moderni deploy su Netlify e AWS di oggi.
+**Mi chiamo Fabrizio Ulisse**, sono un Gen Xers cresciuto fra Pink Floyd, Joy Division, Sonic Youth e EDM, mentre scoprivamo Internet. Del digitale ho fatto una passione e un lavoro, dai primi siti in HTML e gli script Perl di fine anni '90 fino a Claude Code e ai moderni deploy su Netlify e AWS di oggi.
 
 Nato e vissuto a Roma per più di 50 anni, vivo stabilmente a Ravenna dal 2023, dopo un lutto terribile nel 2019, il covid nel 2020 e la nascita del mio splendido figlio nel 2022. Oggi sono un padre single, mi occupo di comunicazione tecnica per [PagoPA](https://pagopa.it), e mi piace andare [in bici gravel](https://www.komoot.com/it-it/user/585511819067) (facendo [tragicomici viaggi a due ruote](https://ciclogravelista.com)).
 

@@ -12,7 +12,7 @@ tags:
   - dev
   - cms
   - blog
-featured: false
+featured: true
 schema:
   type: BlogPosting
   headline: Hugo, un tema e un blog

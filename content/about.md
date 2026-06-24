@@ -56,7 +56,7 @@ schema:
 
 **Mi chiamo Fabrizio Ulisse**, sono un Gen Xer cresciuto fra Pink Floyd, Joy Division, Sonic Youth e EDM, mentre scoprivamo Internet. Del digitale ho fatto una passione e un lavoro, dai primi siti in HTML e gli script Perl di fine anni '90 fino a Claude Code e ai moderni deploy su Netlify e AWS di oggi.
 
-Nato e vissuto a Roma per più di 50 anni, vivo stabilmente a Ravenna dal 2023, dopo un lutto terribile nel 2019, il covid nel 2020 e la nascita del mio splendido figlio nel 2022. Oggi mi occupo di comunicazione tecnica per [PagoPA](https://pagopa.it) e amo  [pedalare off-road](https://www.komoot.com/it-it/user/585511819067) e fare [tragicomici viaggi a due ruote](https://ciclogravelista.com)).
+Nato e vissuto a Roma per più di 50 anni, vivo stabilmente a Ravenna dal 2023, dopo un lutto terribile nel 2019, il covid nel 2020 e la nascita del mio splendido figlio nel 2022. Oggi mi occupo di comunicazione tecnica per [PagoPA](https://pagopa.it) e amo  [pedalare off-road](https://www.komoot.com/it-it/user/585511819067), facendo anche [tragicomici viaggi a due ruote](https://ciclogravelista.com).
 
 Ho una [newsletter](https://unoesessantacinque.substack.com/) poco aggiornata, un [profilo Github](http://github.com/biccio) dove carico esperimenti, i [profili](https://facebook.com/fabrizio.ulisse) [social](https://instagram.com/biccio), da quando erano ancora social, e [Linkedin](https://www.linkedin.com/in/fabrizioulisse/).
 

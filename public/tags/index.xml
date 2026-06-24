@@ -6,57 +6,8 @@
     <description>Recent content in Tag on Fabrizio Ulisse [un blog]</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Donne</title>
-      <link>http://localhost:1313/tags/donne/</link>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/donne/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Folk</title>
-      <link>http://localhost:1313/tags/folk/</link>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/folk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Musica</title>
-      <link>http://localhost:1313/tags/musica/</link>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/musica/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Songwriting</title>
-      <link>http://localhost:1313/tags/songwriting/</link>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/songwriting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Json-Ld</title>
-      <link>http://localhost:1313/tags/json-ld/</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/json-ld/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Schema.org</title>
-      <link>http://localhost:1313/tags/schema.org/</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/schema.org/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Structured Metadata</title>
-      <link>http://localhost:1313/tags/structured-metadata/</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/structured-metadata/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Bici</title>
       <link>http://localhost:1313/tags/bici/</link>
@@ -97,6 +48,13 @@
       <link>http://localhost:1313/tags/empowerment/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/empowerment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Musica</title>
+      <link>http://localhost:1313/tags/musica/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/musica/</guid>
       <description></description>
     </item>
     <item>

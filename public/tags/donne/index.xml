@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donne on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/tags/donne/</link>
+    <description>Recent content in Donne on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/donne/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 dischi delle mie 4 songwriter preferite</title>
+      <link>http://localhost:1313/posts/4-dischi-delle-mie-4-songwriter-preferite/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/4-dischi-delle-mie-4-songwriter-preferite/</guid>
+      <description>C&amp;rsquo;è stato un momento della mia vita, in cui forse per caso o forse per ragioni più che ovvie, mi sono ritrovato ad ascoltare molte cantautrici di ispirazione folk e alt-pop</description>
+    </item>
+  </channel>
+</rss>

@@ -11,7 +11,7 @@ tags:
   - bici
   - karma
   - viaggi
-featured: false
+featured: true
 schema:
   type: BlogPosting
   headline: Quella volta che tornai indietro

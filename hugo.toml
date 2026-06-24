@@ -28,6 +28,11 @@ disablePathToLower = false
   # "title" è opzionale: se omesso viene usato il "title" globale qui sopra.
 
   disableDescriptionMobile = true
+
+  [params.footer]
+    left  = "&copy; 2026 Fabrizio Ulisse"
+    right = "Built with [Hugo](https://gohugo.io) &amp; [Kraft Masonry](https://github.com/biccio/hugo-kraft-masonry) theme"
+
   [params.hero]
     title = "Fabrizio Ulisse"
     subtitle = [

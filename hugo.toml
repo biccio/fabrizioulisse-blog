@@ -29,6 +29,9 @@ disablePathToLower = false
 
   disableDescriptionMobile = true
 
+  # GA4 measurement ID: il tag gtag.js viene iniettato solo in build di produzione.
+  googleAnalytics = "G-Z3VHM8HR72"
+
   [params.footer]
     left  = "&copy; 2026 Fabrizio Ulisse"
     right = "Built with [Hugo](https://gohugo.io) &amp; [Kraft Masonry](https://github.com/biccio/hugo-kraft-masonry) theme"

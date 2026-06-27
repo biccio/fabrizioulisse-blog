@@ -1,5 +1,5 @@
 ---
-title: 6 dischi di 6 donne
+title: 6 dischi delle mie songwriter preferite
 summary: C'è stato un momento della mia vita, in cui forse per caso o forse per ragioni evidenti, mi sono ritrovato ad ascoltare molte cantautrici di ispirazione folk e alt-pop.
 date: 2026-06-27
 categories:

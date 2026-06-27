@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33a1e4787f241d77",
+        "id": "a9f00f2da972383f",
         "type": "tabs",
         "children": [
           {
-            "id": "add006edf8b98587",
+            "id": "71aa45867b371498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "il-blog-il-tema-e-hugo/index.md",
+                "file": "6-dischi-di-6-donne/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,16 +195,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "add006edf8b98587",
+  "active": "71aa45867b371498",
   "lastOpenFiles": [
-    "quella-volta-che-tornai-indietro/index.md",
-    "schema.org-e-la-generative-engine-optimization/index.md",
-    "4-dischi-delle-mie-4-songwriter-preferite/index.md",
-    "4-dischi-delle-mie-4-songwriter-preferite/cover.jpg",
-    "4-dischi-delle-mie-4-songwriter-preferite",
-    "schema.org-e-la-generative-engine-optimization/cover.png",
-    "schema.org-e-la-generative-engine-optimization",
     "il-blog-il-tema-e-hugo/index.md",
+    "quella-volta-che-tornai-indietro/index.md",
+    "anika/index.md",
+    "6-dischi-di-6-donne/index.md",
+    "6-dischi-di-6-donne/records/memories-are-now.jpg",
+    "6-dischi-delle-mie-6-songwriter-preferite/records/images.jpg",
+    "6-dischi-di-6-donne/records/we-slept-at-last.jpg",
+    "6-dischi-di-6-donne/cover.jpg",
+    "cover.jpg",
+    "6-dischi-di-6-donne/records/ace.jpg",
+    "6-dischi-delle-mie-6-songwriter-preferite/ace.jpg",
+    "6-dischi-di-6-donne/records/stranger-in-the-alps.jpg",
+    "6-dischi-delle-mie-6-songwriter-preferite/records/71-JRl5C52L._AC_SL1400_.jpg",
+    "6-dischi-di-6-donne/records/train-on-the-island.jpg",
+    "6-dischi-di-6-donne/records",
+    "6-dischi-delle-mie-6-songwriter-preferite/cartella senza nome",
+    "schema.org-e-la-generative-engine-optimization/index.md",
+    "6-dischi-di-6-donne",
+    "schema.org-e-la-generative-engine-optimization",
     "i colli del faenza gravel/index.md",
     "annika/index.md",
     "Senza nome.base",
@@ -231,13 +242,6 @@
     "vastita",
     "usabilita-progettuale-o-valutativa",
     "una-strategia-di-marketing-per-i-brands-basata-sul-video-online",
-    "una-piccola-partita-a-scacchi",
-    "un-anno",
-    "ugc-no-ma-idc-forse-si",
-    "MCP/cover.jpg",
-    "MCP/cover.png",
-    "MCP/38def232-fa1a-496e-9a75-886b6555c121.png",
-    "38def232-fa1a-496e-9a75-886b6555c121.png",
-    "i colli del faenza gravel/cover.jpg"
+    "una-piccola-partita-a-scacchi"
   ]
 }

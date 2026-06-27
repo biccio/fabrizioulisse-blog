@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arti on Fabrizio Ulisse [un blog]</title><link>https://fabrizioulisse.it/categories/arti/</link><description>Recent content in Arti on Fabrizio Ulisse [un blog]</description><generator>Hugo</generator><language>it-it</language><lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://fabrizioulisse.it/categories/arti/index.xml" rel="self" type="application/rss+xml"/><item><title>Go Anika!</title><link>https://fabrizioulisse.it/posts/anika/</link><pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><guid>https://fabrizioulisse.it/posts/anika/</guid><description>Non ho mai amato particolarmente i Rush, ma in questi giorni guardo molti video del loro tour 2026. E c&amp;rsquo;entra una donna straordinaria.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arti on Fabrizio Ulisse [un blog]</title>
+    <link>http://localhost:1313/categories/arti/</link>
+    <description>Recent content in Arti on Fabrizio Ulisse [un blog]</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/arti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6 dischi di 6 donne</title>
+      <link>http://localhost:1313/posts/6-dischi-di-6-donne/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/6-dischi-di-6-donne/</guid>
+      <description>C&amp;rsquo;è stato un momento della mia vita, in cui forse per caso o forse per ragioni evidenti, mi sono ritrovato ad ascoltare molte cantautrici di ispirazione folk e alt-pop.</description>
+    </item>
+    <item>
+      <title>Go Anika!</title>
+      <link>http://localhost:1313/posts/anika/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/anika/</guid>
+      <description>Non ho mai amato particolarmente i Rush, ma in questi giorni guardo molti video del loro tour 2026. E c&amp;rsquo;entra una donna straordinaria.</description>
+    </item>
+  </channel>
+</rss>

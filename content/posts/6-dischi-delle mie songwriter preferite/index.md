@@ -1,7 +1,9 @@
 ---
-title: 6 dischi delle mie songwriter preferite
-summary: C'è stato un momento della mia vita, in cui forse per caso o forse per ragioni evidenti, mi sono ritrovato ad ascoltare molte cantautrici di ispirazione folk e alt-pop.
+title: "6 dischi delle mie songwriter preferite"
+summary: "C'è stato un momento della mia vita, in cui forse per caso o forse per ragioni evidenti, mi sono ritrovato ad ascoltare molte cantautrici di ispirazione folk e alt-pop."
+description: "Sei album delle mie cantautrici preferite di ispirazione folk e alt-pop, da This Is the Kit a Jesca Hoop, con il brano simbolo per ciascuna."
 date: 2026-06-27
+lastmod: 2026-06-27          
 categories:
   - arti
 tags:
@@ -11,6 +13,43 @@ tags:
   - songwriting
 featured: true
 draft: "false"
+schema:
+  type: "BlogPosting"
+  articleSection: "arti"
+  wordCount: 1022
+  inLanguage: "it-IT"
+  mainEntityOfPage: "https://fabrizioulisse.it/posts/6-dischi-delle-mie-songwriter-preferite/"
+  author:
+    name: "Fabrizio Ulisse"
+    url: "https://fabrizioulisse.it/about/"
+  publisher:
+    name: "Fabrizio Ulisse [un blog]"
+    url: "https://fabrizioulisse.it"
+  about:
+    - { type: "MusicAlbum", name: "Off Off On",
+        byArtist: { type: "MusicGroup", name: "This Is the Kit", sameAs: "https://titk.cargo.site/" } }
+    - { type: "MusicAlbum", name: "Train on the Island",
+        sameAs: "https://aldousharding.bandcamp.com/album/train-on-the-island",
+        byArtist: { type: "Person", name: "Aldous Harding", sameAs: "https://www.aldousharding.com/" } }
+    - { type: "MusicAlbum", name: "Ace",
+        sameAs: "https://en.wikipedia.org/wiki/Ace_(Madison_Cunningham_album)",
+        byArtist: { type: "Person", name: "Madison Cunningham", sameAs: "https://www.madisoncunningham.com/" } }
+    - { type: "MusicAlbum", name: "Stranger in the Alps",
+        sameAs: "https://it.wikipedia.org/wiki/Stranger_in_the_Alps",
+        byArtist: { type: "Person", name: "Phoebe Bridgers", sameAs: "https://phoebebridgers.com/" } }
+    - { type: "MusicAlbum", name: "We Slept at Last",
+        byArtist: { type: "Person", name: "Marika Hackman" } }   # sameAs artista omesso (vedi note)
+    - { type: "MusicAlbum", name: "Memories Are Now",
+        byArtist: { type: "Person", name: "Jesca Hoop", sameAs: "https://www.jescahoop.co.uk/" } }
+  mentions:
+    - { type: "Person", name: "Patti Smith", sameAs: "https://it.wikipedia.org/wiki/Patti_Smith" }
+    - { type: "Person", name: "PJ Harvey", sameAs: "https://pjharvey.net/" }
+    - { type: "Person", name: "Lisa Gerrard", sameAs: "https://it.wikipedia.org/wiki/Lisa_Gerrard" }
+    - { type: "Person", name: "Elizabeth Fraser", sameAs: "https://it.wikipedia.org/wiki/Elizabeth_Fraser" }
+    - { type: "MusicGroup", name: "St. Vincent" }
+    - { type: "MusicGroup", name: "Broadcast" }
+    - { type: "MusicGroup", name: "Lali Puna" }
+    - { type: "MusicGroup", name: "Ms. John Soda" }
 ---
 Nei miei anni di ascolti musicali, le voci femminili sono state per me importanti ([Patti Smith](https://it.wikipedia.org/wiki/Patti_Smith), [PJ Harvey](https://pjharvey.net/),[ Lisa Gerrard](https://it.wikipedia.org/wiki/Lisa_Gerrard) o [Elizabeth Fraser](https://it.wikipedia.org/wiki/Elizabeth_Fraser)) ma onestamente non centrali, almeno fino a poco dopo il 2000. Le cose hanno cominciato a cambiare intorno al 2004, con il lungo periodo di fissa per l'indietronic femminile ([Lali Puna](https://morrmusic.com/artists/lali-puna), per "colpa" del film "[Le conseguenze dell'amore](https://www.imdb.com/it/title/tt0398883/)", [Ms John Soda](https://morrmusic.com/artists/ms-john-soda) e [Broadcast](https://broadcast.warp.net/), per fare qualche esempio), seguito dall'innamoramento per [St Vincent](https://ukstore.ilovestvincent.com/), fino all'esplosione delle cantautrici alt-pop folk di fine anni 10, che nel difficile anno della malattia e poi della scomparsa di mia moglie, sono state per me un prezioso - e probabilmente non casuale - conforto emotivo. Da allora, la maggior parte della musica che ascolto è scritta e cantata da donne, mentre di giovani uomini che producono musica moderna e interessante secondo me ce n'è proprio pochi.
 

@@ -32,6 +32,15 @@ disablePathToLower = false
   # GA4 measurement ID: il tag gtag.js viene iniettato solo in build di produzione.
   googleAnalytics = "G-Z3VHM8HR72"
 
+
+
+
+  # EchoThread comments — optional; widget is not rendered if apiKey is absent
+  [params.echothread]
+    apiKey      = "zuxKJqoIt_3x3VVBNhj4_l8xHzpcOC4G-pOqX9cX-vY" 
+    theme       = "auto"          # auto | light | dark  (default: auto)
+    accentColor = "#2f5d50"              # optional hex accent, e.g. "#2f5d50"
+
   [params.footer]
     left  = "&copy; 2026 Fabrizio Ulisse"
     right = "Built with [Hugo](https://gohugo.io) &amp; [Kraft Masonry](https://github.com/biccio/hugo-kraft-masonry) theme"

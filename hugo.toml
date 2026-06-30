@@ -29,6 +29,16 @@ disablePathToLower = false
 
   disableDescriptionMobile = true
 
+  # Formato data visibile nei post — token Hugo locale-aware o layout Go personalizzato.
+  # Token predefiniti: ":date_full", ":date_long" (default), ":date_medium", ":date_short".
+  # Layout Go personalizzato, es. "02/01/2006" → 19/06/2026 (numerico, giorno prima).
+  # I nomi di mese/giorno sono localizzati nella lingua della pagina.
+  # dateFormat = ":date_long"
+
+  # Social sharing — opzionale
+  # ogImage       = "/img/og-default.png"  # immagine OG di fallback (homepage e post senza cover)
+  # twitterHandle = "yourhandle"           # senza il simbolo @
+
   # GA4 measurement ID: il tag gtag.js viene iniettato solo in build di produzione.
   googleAnalytics = "G-Z3VHM8HR72"
 
@@ -39,6 +49,19 @@ disablePathToLower = false
     shortname   = "fabrizioulisse"
     theme       = "auto"          # auto | light | dark  (default: auto)
     accentColor = "#2f5d50"              # optional hex accent, e.g. "#2f5d50"
+
+  [params.person_ld]
+    person_name            = "Fabrizio Ulisse"
+    person_family_name     = "Ulisse"
+    person_given_name      = "Fabrizio"
+    person_image           = "https://fabrizioulisse.it/img/fabrizio-ulisse.webp"
+    person_telephone       = ""
+    person_email           = "fabrizio.ulisse@gmail.com"
+    person_url             = "https://fabrizioulisse.it/"
+    person_knows_language  = ["it-IT", "en-US"]
+    address_locality       = "Ravenna"
+    address_region         = "Emilia-Romagna"
+    address_country        = "IT"
 
   [params.footer]
     left  = "&copy; 2026 Fabrizio Ulisse"
